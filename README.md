@@ -37,6 +37,8 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 ## How to start this course
 
+¡Good luck warrior!
+
 1. Right-click **Start course** and open the link in a new tab.
    <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/introduction-to-github/generate)
 2. In the new tab, follow the prompts to create a new repository.
